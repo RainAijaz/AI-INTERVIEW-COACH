@@ -1,0 +1,12 @@
+# Core Transformers & PyTorch
+torch==2.8.0
+transformers==4.56.1
+accelerate==1.10.1
+
+# Flask server
+Flask==2.2.5
+Flask-Cors==6.0.1
+
+# TensorFlow backend for Transformers
+tensorflow==2.20.0
+tf-keras==2.20.1
